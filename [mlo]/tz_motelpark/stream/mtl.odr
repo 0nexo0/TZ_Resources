@@ -1,0 +1,31 @@
+Version 165 32
+{
+	Shaders
+	{
+		emissive.sps
+		{
+			DiffuseSampler mtl\nlartuv1.otx
+			EmissiveMultiplier 0.5000000
+			HardAlphaBlend 0.0000000
+			UseTessellation 0.0000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		High 9998.0
+		{
+			mtl\mtl.mesh 0
+		}
+		Med 9998.0
+		Low 9998.0
+		Vlow 9998.0
+		AABBMin -3.5402768 -2.9991550 0.0000000
+		AABBMax 3.4760890 3.0141044 0.5000000
+		Radius 4.62706
+		Center -0.0320938 0.0074747 0.2500000
+	}
+	Light null
+	Bound null
+	Joints null
+}
